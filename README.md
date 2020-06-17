@@ -1,4 +1,4 @@
-# Desafio sobre conceitos Nodejs - Bootcamp GoStack - **concluído**
+# Desafio sobre conceitos Nodejs - Bootcamp GoStack - :jigsaw:
 
 ### Este projeto cria uma API para ser utilizada junto a 2 outros repositórios/aplicações, um sobre ReactJS e outro sobre React-native, seguem links abaixo:
 
