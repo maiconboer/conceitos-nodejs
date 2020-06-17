@@ -1,5 +1,11 @@
 # Desafio sobre conceitos Nodejs - Bootcamp GoStack - **concluído**
 
+### Este projeto cria uma API para ser utilizada junto a 2 outros repositórios/aplicações, um sobre ReactJS e outro sobre React-native, seguem links abaixo:
+
+https://github.com/maiconboer/gostack-conceitos-reactjs   
+https://github.com/maiconboer/conceitos-react-native
+
+
 <p align=center>
 <img center src=".github/nodejs.png" width="800"/>
 <p>
